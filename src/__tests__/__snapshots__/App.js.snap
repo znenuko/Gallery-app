@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot del app 1`] = `
+<div
+  role="app"
+>
+  <nav
+    class="navbar navbar-dark bg-primary"
+  >
+    <div
+      class="container-fluid"
+    >
+      <span
+        class="navbar-brand mb-0 h1"
+      >
+        Gallery App
+      </span>
+    </div>
+  </nav>
+  <div
+    aria-label="container"
+    class="container border my-3"
+  >
+    <div
+      class="text-center"
+    >
+      <form>
+        <label
+          class="w-75"
+        >
+           
+          Buscar: 
+          <input
+            class="w-100"
+            name="inputText"
+            type="text"
+          />
+           
+        </label>
+        <button
+          class="btn btn-warning m-2"
+          type="submit"
+        >
+          <span
+            class="material-icons"
+          >
+            search
+          </span>
+        </button>
+      </form>
+      <hr />
+      <div
+        class="spinner-border text-info"
+        role="status"
+      >
+        <span
+          class="visually-hidden"
+        >
+          Loading...
+        </span>
+      </div>
+      <div
+        aria-label="imagenes"
+        class="row"
+      />
+    </div>
+  </div>
+  <nav
+    class="navbar navbar-dark text-center bg-primary"
+  >
+    <div
+      class="container-fluid "
+    >
+      <p
+        class="navbar-brand h1"
+      >
+         
+        Antony Mata - © 
+        2022
+         
+      </p>
+    </div>
+  </nav>
+</div>
+`;
